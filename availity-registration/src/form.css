@@ -1,0 +1,17 @@
+.error{
+    color: red;
+}
+
+.container{
+    padding:16px;
+    display: flex;
+    justify-content: center;
+}
+
+.form-input {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    border-radius: 2px;
+    width: 100%;
+}
+
